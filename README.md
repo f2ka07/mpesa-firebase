@@ -1,1 +1,1 @@
-<a href="https://www.solid-future.com" rel="">Solid Future</a>
+<a href="https://www.solid-future.com" rel="dofollow">Solid Future</a>
